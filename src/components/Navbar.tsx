@@ -5,7 +5,7 @@ import './Navbar.css'
 export const Navbar = () => {
     return (
         <nav>
-            <h1>Navbar component</h1>
+            <h1>Shop component</h1>
         </nav>
     )
 }
